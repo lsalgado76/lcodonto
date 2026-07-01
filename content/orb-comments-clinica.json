@@ -33,10 +33,10 @@
     { "tone": "estetico_autoestima", "text": "Quer dar o primeiro passo para transformar o seu sorriso hoje mesmo? Deixe seu interesse registrado que nossa equipe te prioriza." }
   ],
   "unidades": [
-    { "tone": "serio", "text": "Temos atendimento estruturado em duas regiões. Curitiba Centro ou Campo Largo — qual é melhor pra você?" },
-    { "tone": "humor", "text": "A Dra. Lygia está em dois lugares estratégicos. Você prefere o agito do Centro de Curitiba ou a tranquilidade de Campo Largo?" },
-    { "tone": "acolhedor", "text": "Queremos facilitar o seu acesso ao cuidado que você merece. Fica mais confortável para você nos visitar no Centro de Curitiba ou em Campo Largo?" },
-    { "tone": "estetico_autoestima", "text": "Estruturas modernas prontas para desenhar o seu novo sorriso. Qual endereço é mais conveniente: Curitiba Centro ou Campo Largo?" }
+    { "tone": "serio", "text": "Temos atendimento estruturado em duas regiões. Curitiba Centro ou Fazenda Rio Grande — qual é melhor pra você?" },
+    { "tone": "humor", "text": "A Dra. Lygia está em dois lugares estratégicos. Você prefere o agito do Centro de Curitiba ou a tranquilidade de Fazenda Rio Grande?" },
+    { "tone": "acolhedor", "text": "Queremos facilitar o seu acesso ao cuidado que você merece. Fica mais confortável para você nos visitar no Centro de Curitiba ou em Fazenda Rio Grande?" },
+    { "tone": "estetico_autoestima", "text": "Estruturas modernas prontas para desenhar o seu novo sorriso. Qual endereço é mais conveniente: Curitiba Centro ou Fazenda Rio Grande?" }
   ],
   "depoimentos": [
     { "tone": "serio", "text": "Cada sorriso tem uma história de sucesso e saúde. Posso te contar como funciona o primeiro atendimento?" },

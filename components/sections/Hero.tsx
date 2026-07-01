@@ -51,7 +51,7 @@ export function Hero() {
             {...fadeUp(0.15)}
             className="mt-5 max-w-md text-lg leading-relaxed text-white/85"
           >
-            Atendimento humanizado e personalizado em Curitiba e Campo Largo
+            Atendimento humanizado e personalizado em Curitiba e Fazenda Rio Grande
           </motion.p>
           <motion.div {...fadeUp(0.3)} className="mt-8 flex flex-wrap gap-4">
             <a

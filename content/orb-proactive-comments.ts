@@ -2,7 +2,7 @@
 // (ver useTracker.ts / SeereWidget.tsx). Chaves = valores de data-section em app/page.tsx.
 export const proactiveComments: Record<string, string> = {
   hero: "Olá! Notei que você está conhecendo a LC Odontologia — posso te ajudar a agendar sua consulta?",
-  diferenciais: "Você merece um atendimento que entenda o seu ritmo e cuide de você sem pressa. Qual região fica mais prática na sua rotina: Centro ou Campo Largo?",
+  diferenciais: "Você merece um atendimento que entenda o seu ritmo e cuide de você sem pressa. Qual região fica mais prática na sua rotina: Centro ou Fazenda Rio Grande?",
   servicos: "Imagino que você esteja buscando o melhor resultado para o seu sorriso. Qual desses tratamentos mais chamou a sua atenção até agora?",
   "dra-lygia": "É muito bom saber com quem estamos tratando, não é? A Dra. Lygia é reconhecida por transformar a ida ao dentista em um momento leve. Quer que eu te conte como é a primeira consulta com ela?",
   agendamento: "Garantir o seu horário leva menos de um minuto e poupa você de adiar o cuidado com a sua saúde. Vamos escolher o melhor dia para você juntos?",

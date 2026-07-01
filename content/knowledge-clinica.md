@@ -9,8 +9,8 @@ Instagram: @lcodont
 WhatsApp: informar que o contato pode ser feito pelo botão de agendamento do site
 
 ## Unidades
-1. Curitiba — Centro: Av. Luiz Xavier, 68 — sala 211, 2º andar, Curitiba — PR
-2. Campo Largo: Rua Monsenhor Aluísio Domanski, 631, Campo Largo — PR
+1. Curitiba — Centro: Av. Mal. Floriano Peixoto, 170 — Edifício Bantiba — 14º andar — Sala 1404, Centro, Curitiba — PR
+2. Fazenda Rio Grande: Av. Araucárias, 177 — Sala 03 — Eucaliptos, Fazenda Rio Grande — PR
 
 Horário: consulte disponibilidade diretamente com a clínica (variação por unidade).
 A Dra. Lygia atende nas duas unidades — mesmo padrão de atendimento nas duas.

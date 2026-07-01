@@ -44,14 +44,14 @@ export const SERVICOS = [
 export const UNIDADES = [
   {
     nome: "Curitiba — Centro",
-    endereco: "Av. Luiz Xavier, 68 — sala 211, 2º andar",
-    cidade: "Curitiba — PR",
-    mapsQuery: "Av. Luiz Xavier, 68, sala 211, Curitiba - PR",
+    endereco: "Av. Mal. Floriano Peixoto, 170 — Edifício Bantiba — 14º andar — Sala 1404",
+    cidade: "Centro, Curitiba — PR",
+    mapsQuery: "Av. Mal. Floriano Peixoto, 170, Edifício Bantiba, Centro, Curitiba - PR",
   },
   {
-    nome: "Campo Largo",
-    endereco: "Rua Monsenhor Aluísio Domanski, 631",
-    cidade: "Campo Largo — PR",
-    mapsQuery: "Rua Monsenhor Aluísio Domanski, 631, Campo Largo - PR",
+    nome: "Fazenda Rio Grande",
+    endereco: "Av. Araucárias, 177 — Sala 03 — Eucaliptos",
+    cidade: "Fazenda Rio Grande — PR",
+    mapsQuery: "Av. Araucárias, 177, Eucaliptos, Fazenda Rio Grande - PR",
   },
 ] as const;

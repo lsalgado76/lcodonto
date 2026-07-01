@@ -10,7 +10,7 @@ const ITEMS = [
   {
     icon: MapPin,
     titulo: "Duas unidades",
-    texto: "Curitiba Centro e Campo Largo para sua comodidade.",
+    texto: "Curitiba Centro e Fazenda Rio Grande para sua comodidade.",
   },
   {
     icon: Microscope,
