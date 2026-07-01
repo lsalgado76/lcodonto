@@ -1,11 +1,11 @@
 import Image from "next/image";
 import { FadeIn } from "@/components/FadeIn";
 
-export function DraLigya() {
+export function DraLygia() {
   return (
     <section
-      id="dra-ligya"
-      data-section="dra-ligya"
+      id="dra-lygia"
+      data-section="dra-lygia"
       className="bg-rose-light/40 px-6 py-20"
     >
       <div className="mx-auto grid max-w-5xl items-center gap-10 sm:grid-cols-[220px_1fr]">
@@ -13,7 +13,7 @@ export function DraLigya() {
           <div className="relative h-44 w-44 overflow-hidden rounded-full shadow-md ring-4 ring-white">
             <Image
               src="/foto-camila.png"
-              alt="Dra. Ligya Camila Salgado"
+              alt="Dra. Lygia Camila Salgado"
               fill
               sizes="176px"
               className="object-cover"
@@ -24,7 +24,7 @@ export function DraLigya() {
 
         <FadeIn delay={0.1}>
           <h2 className="font-serif text-3xl text-charcoal sm:text-4xl">
-            Dra. Ligya Camila Salgado
+            Dra. Lygia Camila Salgado
           </h2>
           <p className="mt-1 text-sm font-medium text-rose-dark">
             Cirurgiã-Dentista — CRO 22.143

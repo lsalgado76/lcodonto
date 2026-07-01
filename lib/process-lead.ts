@@ -4,7 +4,7 @@ import { supabaseAdmin } from "./supabase/server";
 
 // Apenas seções de produto contam para interest — seções de navegação
 // (hero, depoimentos, unidades, faq) são ignoradas no cálculo.
-const INTEREST_SECTIONS = ['servicos', 'dra-ligya', 'agendamento', 'diferenciais']
+const INTEREST_SECTIONS = ['servicos', 'dra-lygia', 'agendamento', 'diferenciais']
 
 async function generateIntentReport({
   nome,

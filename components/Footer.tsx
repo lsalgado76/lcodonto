@@ -18,7 +18,7 @@ export function Footer() {
           </div>
           <div>
             <p className="font-serif text-xl text-white">LC Odontologia</p>
-            <p className="mt-1 text-sm">Dra. Ligya Camila Salgado — CRO 22.143</p>
+            <p className="mt-1 text-sm">Dra. Lygia Camila Salgado — CRO 22.143</p>
           </div>
         </div>
 
@@ -62,7 +62,7 @@ export function Footer() {
       </div>
 
       <p className="mt-10 text-center text-xs text-white/50">
-        © 2026 LC Odontologia — Dra. Ligya Camila Salgado
+        © 2026 LC Odontologia — Dra. Lygia Camila Salgado
       </p>
     </footer>
   );

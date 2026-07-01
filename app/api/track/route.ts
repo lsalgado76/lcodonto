@@ -58,7 +58,7 @@ export async function POST(req: NextRequest) {
 
     // Apenas seções de produto contam para interest — seções de navegação
     // (hero, depoimentos, unidades, faq) são ignoradas no cálculo.
-    const INTEREST_SECTIONS = ['servicos', 'dra-ligya', 'agendamento', 'diferenciais']
+    const INTEREST_SECTIONS = ['servicos', 'dra-lygia', 'agendamento', 'diferenciais']
 
     const sectionTime: Record<string, number> = {}
     updatedEvents.forEach((e: any) => {

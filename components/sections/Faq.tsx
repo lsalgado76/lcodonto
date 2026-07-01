@@ -19,7 +19,7 @@ const FAQ = [
   {
     pergunta: "Qual a diferença entre as duas unidades?",
     resposta:
-      "Os mesmos serviços e padrão de atendimento. A Dra. Ligya atende em ambas — escolha a mais conveniente para você.",
+      "Os mesmos serviços e padrão de atendimento. A Dra. Lygia atende em ambas — escolha a mais conveniente para você.",
   },
   {
     pergunta: "Crianças podem ser atendidas?",

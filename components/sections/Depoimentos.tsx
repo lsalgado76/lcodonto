@@ -3,7 +3,7 @@ import { FadeIn } from "@/components/FadeIn";
 
 const DEPOIMENTOS = [
   {
-    texto: "Fui com muito medo e saí sorrindo. A Dra. Ligya é incrível!",
+    texto: "Fui com muito medo e saí sorrindo. A Dra. Lygia é incrível!",
     nome: "Maria S.",
   },
   {

@@ -2,7 +2,7 @@ import { Header } from "@/components/Header";
 import { Hero } from "@/components/sections/Hero";
 import { Diferenciais } from "@/components/sections/Diferenciais";
 import { Servicos } from "@/components/sections/Servicos";
-import { DraLigya } from "@/components/sections/DraLigya";
+import { DraLygia } from "@/components/sections/DraLygia";
 import { Agendamento } from "@/components/sections/Agendamento";
 import { Unidades } from "@/components/sections/Unidades";
 import { Depoimentos } from "@/components/sections/Depoimentos";
@@ -18,7 +18,7 @@ export default function Home() {
         <Hero />
         <Diferenciais />
         <Servicos />
-        <DraLigya />
+        <DraLygia />
         <Agendamento />
         <Unidades />
         <Depoimentos />

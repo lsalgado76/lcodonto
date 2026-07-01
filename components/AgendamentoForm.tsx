@@ -54,7 +54,7 @@ export function AgendamentoForm() {
           Recebemos sua solicitação!
         </p>
         <p className="mt-2 text-charcoal/70">
-          A Dra. Ligya entrará em contato em breve pelo WhatsApp.
+          A Dra. Lygia entrará em contato em breve pelo WhatsApp.
         </p>
       </div>
     );

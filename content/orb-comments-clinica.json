@@ -19,8 +19,8 @@
     { "tone": "acolhedor", "text": "Está buscando algum cuidado específico para o seu sorriso hoje? Posso te explicar detalhadamente como funciona cada um dos nossos tratamentos." },
     { "tone": "estetico_autoestima", "text": "Qual é o foco da transformação que você busca hoje? Posso te apresentar os detalhes do tratamento ideal para valorizar ainda mais o seu sorriso." }
   ],
-  "dra-ligya": [
-    { "text": "A Dra. Ligya atende com muito cuidado — alguma dúvida sobre o atendimento dela?" },
+  "dra-lygia": [
+    { "text": "A Dra. Lygia atende com muito cuidado — alguma dúvida sobre o atendimento dela?" },
     { "tone": "serio", "text": "A Dra. Lygia combina anos de experiência clínica com atualizações constantes para oferecer o melhor da odontologia moderna." },
     { "tone": "humor", "text": "Anos de experiência colecionando sorrisos e, claro, ouvindo histórias engraçadas de pacientes de boca aberta." },
     { "tone": "acolhedor", "text": "Mais do que cuidar de dentes, a Dra. Lygia humaniza o atendimento para que você se sinta em casa desde a recepção." },

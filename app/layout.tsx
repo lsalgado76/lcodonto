@@ -18,9 +18,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "LC Odontologia — Dra. Ligya Camila Salgado",
+  title: "LC Odontologia — Dra. Lygia Camila Salgado",
   description:
-    "Atendimento odontológico humanizado e personalizado em Curitiba e Campo Largo com a Dra. Ligya Camila Salgado.",
+    "Atendimento odontológico humanizado e personalizado em Curitiba e Campo Largo com a Dra. Lygia Camila Salgado.",
 };
 
 export default function RootLayout({
