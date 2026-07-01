@@ -1,0 +1,54 @@
+{
+  "hero": [
+    { "text": "Olá! Posso te ajudar a conhecer a LC Odontologia ou já agendar sua consulta." },
+    { "tone": "serio", "text": "Olá! Sou a assistente virtual da Dra. Lygia. Como posso te ajudar a cuidar do seu sorriso hoje?" },
+    { "tone": "humor", "text": "Pode confessar: você só veio aqui porque o dente começou a doer, né? Brincadeira! Como posso te ajudar hoje?" },
+    { "tone": "acolhedor", "text": "Seja muito bem-vindo! Estamos aqui para cuidar de você com todo o carinho e sem nenhum desconforto. Do que você precisa?" },
+    { "tone": "estetico_autoestima", "text": "Pronto para transformar o seu cartão de visitas? Vamos construir o sorriso dos seus sonhos. Como posso te ajudar?" }
+  ],
+  "diferenciais": [
+    { "text": "Atendimento humanizado em duas unidades — quer saber qual fica mais perto de você?" },
+    { "tone": "serio", "text": "Dispomos de tratamentos que vão da prevenção à estética avançada. Qual procedimento você gostaria de conhecer?" },
+    { "tone": "humor", "text": "Do 'motorzinho básico' às lentes que vão te deixar com sorriso de artista. Qual é a sua meta de hoje?" },
+    { "tone": "acolhedor", "text": "Cada tratamento aqui é planejado para o seu total conforto e bem-estar. Quer entender como funciona algum deles?" },
+    { "tone": "estetico_autoestima", "text": "Lentes de contato, clareamento, implantes... Qual dessas transformações você quer ver no espelho?" }
+  ],
+  "servicos": [
+    { "tone": "serio", "text": "Tem algum serviço específico em mente? Posso te contar mais sobre qualquer um deles." },
+    { "tone": "humor", "text": "Procurando por uma faxina geral nos dentes ou querendo dar aquele 'upgrade' padrão Hollywood? Me conta qual serviço você tem em mente." },
+    { "tone": "acolhedor", "text": "Está buscando algum cuidado específico para o seu sorriso hoje? Posso te explicar detalhadamente como funciona cada um dos nossos tratamentos." },
+    { "tone": "estetico_autoestima", "text": "Qual é o foco da transformação que você busca hoje? Posso te apresentar os detalhes do tratamento ideal para valorizar ainda mais o seu sorriso." }
+  ],
+  "dra-ligya": [
+    { "text": "A Dra. Ligya atende com muito cuidado — alguma dúvida sobre o atendimento dela?" },
+    { "tone": "serio", "text": "A Dra. Lygia combina anos de experiência clínica com atualizações constantes para oferecer o melhor da odontologia moderna." },
+    { "tone": "humor", "text": "Anos de experiência colecionando sorrisos e, claro, ouvindo histórias engraçadas de pacientes de boca aberta." },
+    { "tone": "acolhedor", "text": "Mais do que cuidar de dentes, a Dra. Lygia humaniza o atendimento para que você se sinta em casa desde a recepção." },
+    { "tone": "estetico_autoestima", "text": "Uma trajetória dedicada a lapidar sorrisos e devolver a segurança que você precisa para rir sem medo." }
+  ],
+  "agendamento": [
+    { "tone": "serio", "text": "Prefere que eu já registre seu interesse por aqui mesmo para agilizarmos o seu atendimento?" },
+    { "tone": "humor", "text": "Podemos resolver isso agora. Garanto que a canetada aqui no teclado dói menos que a anestesia. Posso reservar?" },
+    { "tone": "acolhedor", "text": "Se quiser, já posso deixar seu nome reservado aqui no sistema para garantir que você seja atendido sem pressa. Vamos fazer isso?" },
+    { "tone": "estetico_autoestima", "text": "Quer dar o primeiro passo para transformar o seu sorriso hoje mesmo? Deixe seu interesse registrado que nossa equipe te prioriza." }
+  ],
+  "unidades": [
+    { "tone": "serio", "text": "Temos atendimento estruturado em duas regiões. Curitiba Centro ou Campo Largo — qual é melhor pra você?" },
+    { "tone": "humor", "text": "A Dra. Lygia está em dois lugares estratégicos. Você prefere o agito do Centro de Curitiba ou a tranquilidade de Campo Largo?" },
+    { "tone": "acolhedor", "text": "Queremos facilitar o seu acesso ao cuidado que você merece. Fica mais confortável para você nos visitar no Centro de Curitiba ou em Campo Largo?" },
+    { "tone": "estetico_autoestima", "text": "Estruturas modernas prontas para desenhar o seu novo sorriso. Qual endereço é mais conveniente: Curitiba Centro ou Campo Largo?" }
+  ],
+  "depoimentos": [
+    { "tone": "serio", "text": "Cada sorriso tem uma história de sucesso e saúde. Posso te contar como funciona o primeiro atendimento?" },
+    { "tone": "humor", "text": "Quem entra com medo sai indicando a clínica para a família inteira. Quer entender o que acontece na primeira consulta para perder o receio?" },
+    { "tone": "acolhedor", "text": "Nossos pacientes costumam dizer que a primeira consulta muda o conceito que eles tinham de dentista. Posso te explicar como vai ser o seu primeiro atendimento?" },
+    { "tone": "estetico_autoestima", "text": "Mais do que dentes saudáveis, transformamos a confiança de quem passa por aqui. Quer entender como funciona a nossa avaliação inicial?" }
+  ],
+  "faq": [
+    { "text": "Alguma dúvida específica? Estou aqui para isso." },
+    { "tone": "serio", "text": "Tem dúvidas sobre o pós-operatório, convênios ou procedimentos? Estou aqui para esclarecer." },
+    { "tone": "humor", "text": "Pode perguntar de tudo: se dói, quanto tempo demora, ou se pode comer coxinha depois do tratamento." },
+    { "tone": "acolhedor", "text": "É super normal ter dúvidas antes de ir ao dentista. Me conta o que está te deixando inseguro que eu te explico." },
+    { "tone": "estetico_autoestima", "text": "Quer saber as principais dúvidas sobre como funciona a jornada para o sorriso perfeito? Pergunte aqui." }
+  ]
+}

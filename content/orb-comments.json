@@ -1,0 +1,38 @@
+{
+  "hero": [
+    { "tone": "serio", "text": "Olá! Sou a assistente virtual da Dra. Lygia. Como posso te ajudar a cuidar do seu sorriso hoje?" },
+    { "tone": "humor", "text": "Pode confessar: você só veio aqui porque o dente começou a doer, né? Brincadeira! Como posso te ajudar hoje?" },
+    { "tone": "acolhedor", "text": "Seja muito bem-vindo! Estamos aqui para cuidar de você com todo o carinho e sem nenhum desconforto. Do que você precisa?" },
+    { "tone": "estetico_autoestima", "text": "Pronto para transformar o seu cartão de visitas? Vamos construir o sorriso dos seus sonhos. Como posso te ajudar?" }
+  ],
+  "servicos": [
+    { "tone": "serio", "text": "Dispomos de tratamentos que vão da prevenção à estética avançada. Qual procedimento você gostaria de conhecer?" },
+    { "tone": "humor", "text": "Do 'motorzinho básico' às lentes que vão te deixar com sorriso de artista. Qual é a sua meta de hoje?" },
+    { "tone": "acolhedor", "text": "Cada tratamento aqui é planejado para o seu total conforto e bem-estar. Quer entender como funciona algum deles?" },
+    { "tone": "estetico_autoestima", "text": "Lentes de contato, clareamento, implantes... Qual dessas transformações você quer ver no espelho?" }
+  ],
+  "sobre": [
+    { "tone": "serio", "text": "A Dra. Lygia combina anos de experiência clínica com atualizações constantes para oferecer o melhor da odontologia moderna." },
+    { "tone": "humor", "text": "Anos de experiência colecionando sorrisos e, claro, ouvindo histórias engraçadas de pacientes de boca aberta." },
+    { "tone": "acolhedor", "text": "Mais do que cuidar de dentes, a Dra. Lygia humaniza o atendimento para que você se sinta em casa desde a recepção." },
+    { "tone": "estetico_autoestima", "text": "Uma trajetória dedicada a lapidar sorrisos e devolver a segurança que você precisa para rir sem medo." }
+  ],
+  "preco": [
+    { "tone": "serio", "text": "Investir no seu sorriso é investir na sua saúde. Quer entender as opções e formas de pagamento para o seu caso?" },
+    { "tone": "humor", "text": "Cuidar do sorriso custa bem menos do que ignorar o problema e ter que tratar depois, vai por mim! Vamos simular?" },
+    { "tone": "acolhedor", "text": "O seu bem-estar cabe no seu bolso. Vamos avaliar juntos o melhor caminho para realizar o seu tratamento com tranquilidade?" },
+    { "tone": "estetico_autoestima", "text": "Quanto vale a liberdade de sorrir com segurança em todas as fotos? Vamos ver as opções para tornar isso realidade." }
+  ],
+  "contato": [
+    { "tone": "serio", "text": "Gostaria de agendar uma consulta ou falar com a nossa equipe? Me diga qual o melhor dia e horário." },
+    { "tone": "humor", "text": "Chega de adiar o dentista! Deixe seu contato e vamos achar uma vaga antes que o fio dental vire enfeite na sua gaveta." },
+    { "tone": "acolhedor", "text": "Seu horário será reservado com toda a atenção que você merece. Me conte, qual o melhor período para te receber? " },
+    { "tone": "estetico_autoestima", "text": "Dê o primeiro passo rumo ao seu novo sorriso. Deixe seus dados e vamos agendar a sua avaliação." }
+  ],
+  "faq": [
+    { "tone": "serio", "text": "Tem dúvidas sobre o pós-operatório, convênios ou procedimentos? Estou aqui para esclarecer." },
+    { "tone": "humor", "text": "Pode perguntar de tudo: se dói, quanto tempo demora, ou se pode comer coxinha depois do tratamento." },
+    { "tone": "acolhedor", "text": "É super normal ter dúvidas antes de ir ao dentista. Me conta o que está te deixando inseguro que eu te explico." },
+    { "tone": "estetico_autoestima", "text": "Quer saber as principais dúvidas sobre como funciona a jornada para o sorriso perfeito? Pergunte aqui." }
+  ]
+}

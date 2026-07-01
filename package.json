@@ -9,7 +9,17 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.2.9",
+    "@anthropic-ai/sdk": "^0.109.0",
+    "@google/genai": "^2.10.0",
+    "@supabase/supabase-js": "^2.110.0",
+    "@types/nodemailer": "^8.0.1",
+    "@upstash/ratelimit": "^2.0.8",
+    "@upstash/redis": "^1.38.0",
+    "googleapis": "^173.0.0",
+    "lucide-react": "^1.22.0",
+    "motion": "^12.42.2",
+    "next": "^16.2.9",
+    "nodemailer": "^9.0.3",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
