@@ -63,14 +63,17 @@ async function linkLeadToVisitorSession({
 }) {
   await supabaseAdmin
     .from('visitor_sessions')
-    .update({
-      lead_id: leadId,
-      converted: true,
-      stage: 'convertido',
-      last_seen_at: new Date().toISOString(),
-    })
-    .eq('visitor_fingerprint', visitorFingerprint)
-    .eq('client_id', clientId)
+    .upsert(
+      {
+        visitor_fingerprint: visitorFingerprint,
+        client_id: clientId,
+        lead_id: leadId,
+        converted: true,
+        stage: 'convertido',
+        last_seen_at: new Date().toISOString(),
+      },
+      { onConflict: 'visitor_fingerprint,client_id' }
+    )
 
   await supabaseAdmin
     .from('leads')

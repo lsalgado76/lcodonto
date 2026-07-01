@@ -2,7 +2,7 @@
 export interface CaptureLeadInput {
   nome: string;
   contato: string;
-  area_interesse: "wibag" | "ai-customer-service" | "bi" | "software-dev" | "geral";
+  area_interesse: "avaliacao" | "limpeza-prevencao" | "restauracoes" | "clareamento" | "ortodontia" | "extracoes" | "geral";
   contexto: string;
 }
 
@@ -36,8 +36,8 @@ export const captureLeadToolGemini = {
           contato: { type: "STRING", description: "E-mail ou WhatsApp informado pelo visitante" },
           area_interesse: {
             type: "STRING",
-            enum: ["wibag", "ai-customer-service", "bi", "software-dev", "geral"],
-            description: "Pilar de negócio identificado como interesse principal",
+            enum: ["avaliacao", "limpeza-prevencao", "restauracoes", "clareamento", "ortodontia", "extracoes", "geral"],
+            description: "Serviço odontológico identificado como interesse principal",
           },
           contexto: {
             type: "STRING",
@@ -63,8 +63,8 @@ export const captureLeadToolAnthropic = {
       contato: { type: "string", description: "E-mail ou WhatsApp informado pelo visitante" },
       area_interesse: {
         type: "string",
-        enum: ["wibag", "ai-customer-service", "bi", "software-dev", "geral"],
-        description: "Pilar de negócio identificado como interesse principal",
+        enum: ["avaliacao", "limpeza-prevencao", "restauracoes", "clareamento", "ortodontia", "extracoes", "geral"],
+        description: "Serviço odontológico identificado como interesse principal",
       },
       contexto: {
         type: "string",

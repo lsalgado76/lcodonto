@@ -13,7 +13,7 @@ const gmail = google.gmail({ version: "v1", auth });
 function buildRawEmail(lead: CaptureLeadInput, timestamp: string): string {
   const from = process.env.GMAIL_SENDER_ADDRESS!;
   const to = process.env.LEAD_NOTIFICATION_EMAIL!;
-  const subject = `Novo lead via widget : ${lead.area_interesse}`;
+  const subject = `Novo lead via widget — ${lead.area_interesse}`;
 
   const body = [
     `Nome:              ${lead.nome}`,

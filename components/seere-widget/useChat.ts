@@ -14,10 +14,12 @@ const NETWORK_ERROR_MSG =
   "diretamente com a Seere pelo WhatsApp (41) 99846-5803.";
 
 const INTEREST_PATTERNS: [NonNullable<InterestPillar>, string[]][] = [
-  ["wibag", ["wibag", "conectividade", "5g", "internet para evento", "mochila", "fwa", "evento"]],
-  ["ai-customer-service", ["chatbot", "bot", "atendimento automático", "ia para atendimento", "agente de ia", "whatsapp automático"]],
-  ["bi", ["bi", "dashboard", "relatório", "métricas", "kpi", "dados", "business intelligence"]],
-  ["software-dev", ["software sob medida", "sistema", "erp", "crm", "aplicativo", "desenvolvimento", "plataforma"]],
+  ["avaliacao", ["avaliação", "consulta", "diagnóstico"]],
+  ["limpeza-prevencao", ["limpeza", "profilaxia", "flúor", "prevenção"]],
+  ["restauracoes", ["restauração", "restaurações", "cárie", "obturação"]],
+  ["clareamento", ["clareamento"]],
+  ["ortodontia", ["ortodontia", "aparelho", "alinhamento"]],
+  ["extracoes", ["extração", "extrações", "cirurgia"]],
 ];
 
 function detectInterest(messages: Message[]): NonNullable<InterestPillar> | null {
@@ -41,7 +43,7 @@ function extractSummary(assistantReply: string): string {
 }
 
 // Seções que indicam interesse real — navegação/contato são ignorados
-const INTEREST_SECTIONS = ['wibag', 'bi', 'software-dev', 'ai-customer-service', 'software']
+const INTEREST_SECTIONS = ['servicos', 'dra-lygia', 'agendamento', 'diferenciais']
 
 function calcDominantSection(events: BehaviorEvent[]): string | null {
   const sectionTime: Record<string, number> = {};
